@@ -1,6 +1,6 @@
 class Person
 
-    def tank
+    def talk
         puts "Hello World!"
     end
 
